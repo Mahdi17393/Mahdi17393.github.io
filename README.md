@@ -1,2 +1,2 @@
-# MahdiHasani.github.io
+# mahdihasani.github.io
 Hello World!! I am new here...
